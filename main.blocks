@@ -1,4 +1,4 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="G]YHi+zp2r(A][kD0$3c" x="-516" y="-3"></block><block type="device_button_event" id="P`NoSW%VqoKEm3MX!a%9" x="-245" y="-1"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="device_show_leds" id="TY}a:B~^+@e#p%#mj];t"><field name="LEDS">`
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="G]YHi+zp2r(A][kD0$3c" x="-516" y="-3"><statement name="HANDLER"><block type="basic_show_icon" id="~OL7v~2*NtOpquWn]+c#"><field name="i">IconNames.Happy</field></block></statement></block><block type="device_button_event" id="P`NoSW%VqoKEm3MX!a%9" x="-245" y="-1"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="device_show_leds" id="TY}a:B~^+@e#p%#mj];t"><field name="LEDS">`
         # . . . # 
         # . . . . 
         # # # . # 
